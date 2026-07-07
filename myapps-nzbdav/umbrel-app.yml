@@ -1,0 +1,17 @@
+manifestVersion: 1
+id: "myapps-nzbdav"
+category: "media"
+name: "NzbDAV"
+version: "1.0.0"
+description: "A WebDAV server for your Usenet downloads."
+tagline: "Usenet to WebDAV"
+developer: "NzbDAV"
+website: "https://github.com/nzbdav/nzbdav"
+submitter: "Your Name"
+submissionDate: "2026-07-07T00:00:00.000Z"
+repo: "https://github.com/nzbdav/nzbdav"
+support: "https://github.com/nzbdav/nzbdav/issues"
+port: 3003
+gallery: []
+path: ""
+defaultPassword: ""
